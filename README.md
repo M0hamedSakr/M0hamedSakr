@@ -1,51 +1,80 @@
-<h1 align="center">Hi 👋! My name is Mohamed Sakr</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Sakr</h1>
 
-###
+<h2 align="center">💻 Machine Learning Engineer | Computer Engineer</h2>
 
-<h2 align="center">Machine Learning Engineer | Computer Engineer</h2>
+---
 
-###
+### 🚀 About Me
+I’m Mohamed Sakr, passionate about **Artificial Intelligence (AI)** and **Computer Science**.  
+Always eager to develop my programming skills and explore the latest technologies in **Machine Learning, Data Analysis, and Intelligent Systems**.  
 
-<h3 align="left">Languages!</h3>
+I strive to connect academic knowledge with real-world applications through practical projects and teamwork.  
+My goal is to contribute to building innovative solutions and be part of the future shaped by AI.  
 
-###
+---
 
+### 🏢 Experience
+**IT Support Specialist (Internship) – Let's Know Training & Consulting Center**  
+*Jan 2025 – Jun 2025 | El Mansoura, Ad Daqahliyah, Egypt*  
+- Configured servers and added roles (AD, DNS, DHCP, File Sharing)  
+- Set up **Network Firewalls** (Sophos & Fortinet)  
+- Configured **Access Points**  
+- Installed & maintained **Fingerprint & CCTV systems**  
+- Troubleshot computer hardware and software issues  
+
+---
+
+### 🎓 Education
+**Misr Higher Institute for Engineering and Technology**  
+Bachelor in **Electrical, Electronics and Communications Engineering (CCE)**  
+
+---
+
+### 🛠️ Skills
+- **Machine Learning** 🤖  
+- **Large Language Models (LLM)** 📊  
+- **Teamwork & Collaboration** 🤝  
+
+---
+
+### 🏅 Certifications
+- ICPC  
+- Programming Advices  
+- Nvidia  
+- Ideation  
+- HackerRank  
+
+---
+
+### 🌐 Connect with Me
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="60" alt="css logo"  />
+  <a href="https://www.linkedin.com/in/mohamed-sakr-15b674279" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://m0hamedsakr.github.io/Portofilio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="mailto:mo.sakr140@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
+  </a>
 </div>
 
-###
+📞 **Phone:** 01009252592  
 
+---
+
+### 🌍 Languages
+- **Arabic** 🇪🇬 (Native)  
+- **English** 🇬🇧 (Fluent)  
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSakr&show_icons=true&theme=dracula&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M0hamedSakr&layout=compact&theme=dracula" height="160" />
 </div>
 
-###
+---
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FzeTFjb2cyNzIyYW80anBqemJrMmx2ZzJoenNxcDc3bzJraGwzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2hEYuYjsCjHq/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSakr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M0hamedSakr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<img align="right" height="200" src="https://media0.giphy.com/media/d2hEYuYjsCjHq/giphy.gif"  />
