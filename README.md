@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M0hamedSakr&layout=compact&langs_count=6&theme=dracula" height="160" alt="Languages graph" /> 
 </div>
 
----
+
 
 
 
