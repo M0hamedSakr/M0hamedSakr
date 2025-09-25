@@ -5,67 +5,51 @@
 ---
 
 ### 🚀 About Me
-I’m Mohamed Sakr, passionate about **Artificial Intelligence (AI)** and **Computer Science**.  
-Always eager to develop my programming skills and explore the latest technologies in **Machine Learning, Data Analysis, and Intelligent Systems**.  
-
-I strive to connect academic knowledge with real-world applications through practical projects and teamwork.  
-My goal is to contribute to building innovative solutions and be part of the future shaped by AI.  
-
----
-
-### 🏢 Experience
-**IT Support Specialist (Internship) – Let's Know Training & Consulting Center**  
-*Jan 2025 – Jun 2025 | El Mansoura, Ad Daqahliyah, Egypt*  
-- Configured servers and added roles (AD, DNS, DHCP, File Sharing)  
-- Set up **Network Firewalls** (Sophos & Fortinet)  
-- Configured **Access Points**  
-- Installed & maintained **Fingerprint & CCTV systems**  
-- Troubleshot computer hardware and software issues  
+- 🎓 Passionate about **Machine Learning, Data Science, and Computer Engineering**  
+- 🔍 Interested in **AI, Deep Learning, and Data-Driven Solutions**  
+- 🌱 Currently exploring **Advanced ML Techniques & System Design**  
+- 🤝 Open to collaborating on **ML/AI projects, Open-Source contributions, and Research**  
 
 ---
 
-### 🎓 Education
-**Misr Higher Institute for Engineering and Technology**  
-Bachelor in **Electrical, Electronics and Communications Engineering (CCE)**  
-
----
-
-### 🛠️ Skills
-- **Machine Learning** 🤖  
-- **Large Language Models (LLM)** 📊  
-- **Teamwork & Collaboration** 🤝  
-
----
-
-### 🏅 Certifications
-- ICPC  
-- Programming Advices  
-- Nvidia  
-- Ideation  
-- HackerRank  
+### 🛠️ Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="Anaconda" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="60" alt="CSS3" />
+</div>
 
 ---
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-sakr-15b674279" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
   </a>
-  <a href="https://m0hamedsakr.github.io/Portofilio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" />
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
   </a>
-  <a href="mailto:mo.sakr140@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
+  <a href="https://discord.gg/your-discord" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://facebook.com/your-facebook" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://wa.me/your-whatsapp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://t.me/your-telegram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </div>
-
-📞 **Phone:** 01009252592  
-
----
-
-### 🌍 Languages
-- **Arabic** 🇪🇬 (Native)  
-- **English** 🇬🇧 (Fluent)  
 
 ---
 
@@ -78,3 +62,4 @@ Bachelor in **Electrical, Electronics and Communications Engineering (CCE)**
 ---
 
 <img align="right" height="200" src="https://media0.giphy.com/media/d2hEYuYjsCjHq/giphy.gif"  />
+
