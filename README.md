@@ -54,10 +54,7 @@
 
 ---
 
-### 📊 GitHub Activity
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=M0hamedSakr&theme=dracula&hide_border=false&border_radius=5" height="160" alt="Streak graph" /> 
-</div>
+
 
 ---
 
