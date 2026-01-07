@@ -64,6 +64,23 @@ Beyond academics, I actively contribute to the tech community and **lead initiat
 
 ---
 
+## 🧩 3D Design & Hardware Skills
+
+> *Exploring the intersection of software, design, and hardware.*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Fusion%20360-Design-orange?style=for-the-badge&logo=autodesk&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/3D%20Printing-Practical%20Usage-green?style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/C%20Programming-Fundamentals-0A6DB3?style=for-the-badge&logo=c&logoColor=white" height="28" />
+</div>
+
+- 🧱 **Fusion 360 Design:** Create simple and functional 3D models and parts using Fusion 360 for learning and practical use.  
+- 🖨️ **3D Printing Basics:** Understand basic printer operation, slicing concepts, and how to prepare and run prints for real projects.  
+- ⚙️ **Practical Hardware Use:** Combine 3D-printed parts with basic hardware setups to support small prototypes and engineering ideas.  
+- 💻 **C Programming Knowledge:** Write structured C programs with core concepts like variables, control flow, and functions, with a focus on fundamentals used in low-level and embedded contexts.  
+
+---
+
 ## 🛠️ Programming Languages & Tools
 
 <div align="center">
