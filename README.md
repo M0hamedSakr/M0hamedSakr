@@ -62,13 +62,6 @@ Focused on **understanding fundamentals**, not just using tools.
   <img src="https://skillicons.dev/icons?i=html,css,js" height="45" alt="Web Technologies" />
 </div>
 
----
-
-## 📊 GitHub Statistics
-<div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSakr&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0hamedSakr&layout=compact&theme=dracula" height="150"/>
-</div>
 
 ---
 
