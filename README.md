@@ -2,7 +2,7 @@
   
 # 👨‍💻 **Mohamed Sakr**
 ### *AI & Machine Learning Engineer (Junior)*  
-### 🎓 *Computer Engineering Student *
+### 🎓 *Computer Engineering Student*
 
 **Vice Chairman – IEEE MET Computer Society Chapter**
 
