@@ -71,20 +71,18 @@ Beyond academics, I actively contribute to the tech community and **lead initiat
 <div align="center">
   <img src="https://img.shields.io/badge/Fusion%20360-Design-orange?style=for-the-badge&logo=autodesk&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/3D%20Printing-Practical%20Usage-green?style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/C%20Programming-Fundamentals-0A6DB3?style=for-the-badge&logo=c&logoColor=white" height="28" />
 </div>
 
-- 🧱 **Fusion 360 Design:** Create simple and functional 3D models and parts using Fusion 360 for learning and practical use.  
-- 🖨️ **3D Printing Basics:** Understand basic printer operation, slicing concepts, and how to prepare and run prints for real projects.  
-- ⚙️ **Practical Hardware Use:** Combine 3D-printed parts with basic hardware setups to support small prototypes and engineering ideas.  
-- 💻 **C Programming Knowledge:** Write structured C programs with core concepts like variables, control flow, and functions, with a focus on fundamentals used in low-level and embedded contexts.  
-
+- 🧱 **Fusion 360 Design:** Create simple and functional 3D models and parts for learning and practical use.  
+- 🖨️ **3D Printing Basics:** Understand printer operation, slicing concepts, and print preparation for real projects.  
+- ⚙️ **Hardware Awareness:** Basic understanding of combining 3D-printed parts with simple hardware setups for prototyping.
 ---
 
 ## 🛠️ Programming Languages & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
   <img src="https://skillicons.dev/icons?i=flask" height="45" alt="Flask" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
@@ -93,6 +91,10 @@ Beyond academics, I actively contribute to the tech community and **lead initiat
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
 </div>
+
+- **C:** Strong understanding of fundamentals (variables, control flow, functions) with a focus on low-level and embedded concepts.  
+- **C++:** Object-Oriented Programming, problem solving, and data structures.  
+- **Python:** Data analysis, scripting, and Machine Learning foundations.
 
 ---
 
