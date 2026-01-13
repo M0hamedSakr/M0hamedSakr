@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 **Mohamed Sakr**
+#  **Mohamed Sakr**
 ### *AI & Machine Learning Engineer (Junior)*  
 ### 🎓 *Computer Engineering Student*
 
