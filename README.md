@@ -136,6 +136,8 @@ Beyond academics, I'm the founder of **Sakr Makes** — a maker brand focused on
 ---
 
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6df0,2dd4a4&height=120&section=footer&animation=fadeIn" width="100%" />
 
 *Thanks for visiting! Connect with me to collaborate or chat about tech & making* 🚀
 
